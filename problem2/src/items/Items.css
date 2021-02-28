@@ -1,0 +1,10 @@
+.items-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.items-header {
+  text-align: center;
+}

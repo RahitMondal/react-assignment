@@ -1,0 +1,31 @@
+.wide-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  border: solid 0.1rem #ccc;
+  border-radius: 0.1rem;
+  margin: 0.3rem;
+  padding: 1rem;
+}
+
+.image-wrapper {
+  display: flex;
+  justify-content: center;
+  height: 10rem;
+  width: 10rem;
+  overflow: hidden;
+  background-color: #ddd;
+  padding: 1rem 3rem;
+}
+
+.image-wrapper img {
+  height: 100%;
+}
+
+.cart-item-desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

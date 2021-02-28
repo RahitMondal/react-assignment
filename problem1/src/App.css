@@ -1,0 +1,55 @@
+.App,
+.App form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1rem;
+}
+
+.App header {
+  width: 100%;
+  max-width: 50rem;
+  background-color: blue;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+.App label,
+.App input,
+.App button {
+  margin: 0.5rem;
+}
+
+.App label {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.App input,
+.App button {
+  width: 12rem;
+  padding: 0.5rem;
+  text-align: center;
+  outline: none;
+}
+
+.App button {
+  font-size: 1.8rem;
+  font-weight: bold;
+  background-color: blue;
+  color: #fff;
+  border: none;
+  border-radius: 0.3rem;
+}
+
+.App button:hover {
+  cursor: pointer;
+}
+
+.output-line {
+  font-size: 1.2rem;
+  margin: 0.3rem;
+}

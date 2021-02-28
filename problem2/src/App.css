@@ -1,0 +1,11 @@
+.page-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+  background-color: #1565c0;
+  color: #fff;
+  font-size: 1.6rem;
+  font-weight: bold;
+  padding: 1rem;
+}

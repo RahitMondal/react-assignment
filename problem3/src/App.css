@@ -1,0 +1,15 @@
+.app {
+  display: block;
+}
+.app h2 {
+  text-align: center;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  overflow: hidden;
+}

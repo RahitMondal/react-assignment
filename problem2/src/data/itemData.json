@@ -1,0 +1,28 @@
+[
+    {
+        "itemName": "Cotton Shirt",
+        "imgSrc": "./assets/images/cotton_shirt.png",
+        "price": [250, 300]
+    },
+    {
+        "itemName": "White Tshirt",
+        "imgSrc": "./assets/images/white_shirt.png",
+        "price": [550, 600]
+    },
+    {
+        "itemName": "Full Sleeve Tshirt",
+        "imgSrc": "./assets/images/full_sleeve_tshirt.png",
+        "price": [200, 250]
+    },
+    {
+        "itemName": "Blue Tshirt",
+        "imgSrc": "./assets/images/blue_tshirt.png",
+        "price": [900, 1550]
+    },
+    {
+        "itemName": "Navy Blue Shirt",
+        "imgSrc": "./assets/images/navy_blue_shirt.png",
+        "price": [600, 900]
+    }
+  ]
+  

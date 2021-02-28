@@ -1,0 +1,16 @@
+.cart-icon {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 10%;
+}
+
+.cart-icon a {
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+
+.cart-count {
+  font-size: 1rem;
+}

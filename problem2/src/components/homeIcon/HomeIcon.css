@@ -1,0 +1,11 @@
+.home-icon {
+  display: flex;
+  align-items: center;
+  width: 10%;
+}
+
+.home-icon a {
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
